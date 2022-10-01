@@ -1,0 +1,12 @@
+-Redis is an open-source, in-memory  data store,
+ Can be used as a database
+ Can be used cache
+ Can be used message broker
+
+- Redis supports Asynchronous operations
+
+- Some of the examples of usages
+  High performance applications which require fast load and refresh
+  Leaderboard displays
+  Social netwrok sites which loads large images , banners etc ..
+  Messaging apps
