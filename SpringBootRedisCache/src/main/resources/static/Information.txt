@@ -1,0 +1,14 @@
+-Redis Cache
+
+- Highly available data
+- low latency
+- Increased through put
+- Increased load time
+
+Important Annotations
+
+@EnableCaching - Enable caching at application level
+
+@Cacheable - add it to methods we want to cache - fetching
+@CachePut  - while inserting/updating any records so it will update cache
+@CacheEvict - Remove cache
